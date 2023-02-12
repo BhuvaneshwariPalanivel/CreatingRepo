@@ -6,6 +6,6 @@ public class Gitaddtry {
 	     int a = 50;
 	     int c = 50;
 	     
-	      System.out.println(a+c);
+	      System.out.println(a*c);
 	   }
 	    	}  
